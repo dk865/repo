@@ -1,0 +1,17 @@
+Origin: dk865's Repo 
+Label: dk865's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: This is My Repo. There are various packages, tweaks and programs alike. This repo is pretty empty, but great things are to come!MD5Sum:
+ d79bc8eb477581f63f1ce70e7c521ec6 2291 Packages
+ 03be3631898346baf5b3a477e4729dfb 1043 Packages.bz2
+ 47b10a40f0390fce35637b9ee66e5fe7 850 Packages.gz
+ a869b136e456672f68fe64a380d98397 835 Packages.zst
+SHA256:
+ 4093b023707b262a502553e6174f8a9776cd3bd5765020bc801448d43ceb0f0a 2291 Packages
+ 43ab34cd092f7148162521513f828dc3568d057d92f9615414b189ea3316048c 1043 Packages.bz2
+ 3c1c9b26a7408c95c7f8d78b5e73a7d5222b34c44240ec39d8db049d7dba7058 850 Packages.gz
+ 611eae3ec0b62a7c0c9b03797c1ab317e44f928a87d6e717303aa5853af9d758 835 Packages.zst

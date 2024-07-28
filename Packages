@@ -1,0 +1,56 @@
+Package: com.dk865.moon-buggy
+Version: 1.0.51-1
+Architecture: iphoneos-arm
+Maintainer: dk865
+Installed-Size: 172
+Depends: libiosexec1 (>= 1.2.2), libncursesw6
+Filename: debs/moon-buggy/1.0.51-1_rootful.deb
+Size: 35292
+MD5sum: 7f504307e00de17698699dce071b3bf6
+SHA1: d834d9c56df2b016002ad04518d23e66e47077d1
+SHA256: 63324d7efdf4f266d6dad91be219b45d88a2fb7fea210de85eed188d7f743463
+Section: Games
+Priority: optional
+Description: Drive a car across the moon in this text-mode videogame
+ moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface. Unfortunately there are dangerous craters there. Fortunately your car can jump over them!
+Depiction: https://dk865.github.io/depictions/moon-buggy/
+Icon: https://dk865.github.io/depictions/moon-buggy/icon.png
+Name: moon-buggy
+Sileodepiction: https://dk865.github.io/depictions/moon-buggy/sileo.json
+
+Package: com.dk865.moon-buggy
+Version: 1.0.51-1
+Architecture: iphoneos-arm64
+Maintainer: dk865
+Installed-Size: 172
+Depends: libiosexec1 (>= 1.2.2), libncursesw6
+Filename: debs/moon-buggy/1.0.51-1_rootless.deb
+Size: 35404
+MD5sum: 6696694cc3a05e6c3776bf85bdb12660
+SHA1: 713c57bde0f27e4bff356a415928ef1a72cbaa87
+SHA256: 084b5e99a939f69fc1ae2e972efbd861c5e969b29526de7756b1cd96653b8071
+Section: Games
+Priority: optional
+Description: Drive a car across the moon in this text-mode videogame
+ moon-buggy is a simple character graphics game where you drive some kind of car across the moon's surface. Unfortunately there are dangerous craters there. Fortunately your car can jump over them!
+Depiction: https://dk865.github.io/depictions/moon-buggy/
+Icon: https://dk865.github.io/depictions/moon-buggy/icon.png
+Name: moon-buggy
+Sileodepiction: https://dk865.github.io/depictions/moon-buggy/sileo.json
+
+Package: com.dk865.musicreplace
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dk865
+Installed-Size: 172
+Filename: debs/musicreplace/1.0.0_rootful.deb
+Size: 355404
+MD5sum: 90d4d1c5559698acc35a3644f50c4223
+SHA1: f292e7e791f8535294fe0e44845bf3bd02ee2b9d
+SHA256: 12d77fda61f2cfec9dbd4b26a275e688c3b2382d144c0e1092f135aca20d2bae
+Section: User-Requested Fixes
+Priority: optional
+Description: Replace your Music app with a Fresh Copy.
+Depicition: Replace your Music app with a Fresh Copy.
+Name: MusicReplace
+

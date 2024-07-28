@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dk865</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/jpeg" href="./CydiaIcon.png">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <img src="./CydiaIcon.png" alt="Icon" class="icon">
+    <h1>dk865</h1>
+    <div class="welcome">Add my Repo</div>
+    <div class="about-section">
+    </div>
+    <div class="aboutme1">iOS and iPadOS</div>
+    <div class="button-container" id="ios-buttons">
+        <a href="sileo://source/https://dk865.github.io/" class="button button-blue">Sileo</a>
+        <a href="zbra://sources/add/dk865.github.io/" class="button button-purple">Zebra</a>
+        <a href="installer://add/https://dk865.github.io" class="button button-red">Installer</a>
+        <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://dk865.github.io/" class="button button-brown-orange">Cydia</a>
+    </div>
+
+    <div class="aboutme1">Linux</div>
+
+    <div id="linux-repo" class="repo-container">
+        <div class="repo-label">Add Repo to apt:</div>
+        <div class="repo-command">
+            <code>sudo sh -c 'echo "deb [trusted=yes] https://dk865.github.io/ ./" > /etc/apt/sources.list.d/dk865.list'</code>
+            <button class="copy-button" onclick="dataLayer.push({'event': 'linuxcopy-click'});">Copy</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
